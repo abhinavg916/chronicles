@@ -2,7 +2,7 @@
 
 ![cover](https://github.com/abhinavg916/chronicles/blob/main/Chronicles%20Cover.png)
 
-**Developed** using TypeScript, Reactjs, Axios,React Query, React Router, Tailwind CSS
+**Developed** using TypeScript, Reactjs, Axios, React Query, React Router, Tailwind CSS
 
 Developed social media app using Reactjs, featuring an explore page with like, save and search functionality, detailed post views, and follow user profiles with editable posts and user authentication. Integrated React Query for auto-caching and parallel queries.
 
