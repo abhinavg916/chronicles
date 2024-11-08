@@ -1,6 +1,6 @@
 ## Chronciles - Social Media App
 
-![cover]()
+![cover](https://github.com/abhinavg916/chronicles/blob/main/Chronicles%20Cover.png)
 
 **Developed** using TypeScript, Reactjs, Axios,React Query, React Router, Tailwind CSS
 
